@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-groq
+langchain-core
+faiss-cpu
+pypdf
+sentence-transformers
+transformers
+torch
+huggingface-hub
+groq
+langsmith
+python-dotenv
+tiktoken
